@@ -23,7 +23,8 @@
 
 ### Result
 - The IoU result is 0.4213.
-- Image segmentation result  
-- <img width="206" alt="image" src="https://github.com/Teemyteem/Unet_DeepGlobe/assets/129394136/32f3199f-ab8f-4b3a-9ef5-73ad2551357d">
+- Image segmentation result
+    
+<img width="206" alt="image" src="https://github.com/Teemyteem/Unet_DeepGlobe/assets/129394136/32f3199f-ab8f-4b3a-9ef5-73ad2551357d">
 
 
